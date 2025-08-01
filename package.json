@@ -1,6 +1,6 @@
 {
   "name": "pomeloes-room-plugin",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A pomelo plugin for room data synchronization via redis pub/sub.",
   "main": "index.js",
   "scripts": {
